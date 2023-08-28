@@ -1,0 +1,7 @@
+C:\devcodecamp\c#intro\ProductandReviewAPI\obj\Debug\net7.0\ProductandReviewAPI.csproj.AssemblyReference.cache
+C:\devcodecamp\c#intro\ProductandReviewAPI\obj\Debug\net7.0\ProductandReviewAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\devcodecamp\c#intro\ProductandReviewAPI\obj\Debug\net7.0\ProductandReviewAPI.AssemblyInfoInputs.cache
+C:\devcodecamp\c#intro\ProductandReviewAPI\obj\Debug\net7.0\ProductandReviewAPI.AssemblyInfo.cs
+C:\devcodecamp\c#intro\ProductandReviewAPI\obj\Debug\net7.0\ProductandReviewAPI.csproj.CoreCompileInputs.cache
+C:\devcodecamp\c#intro\ProductandReviewAPI\obj\Debug\net7.0\ProductandReviewAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\devcodecamp\c#intro\ProductandReviewAPI\obj\Debug\net7.0\ProductandReviewAPI.MvcApplicationPartsAssemblyInfo.cache
