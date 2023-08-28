@@ -13,9 +13,9 @@ namespace ProductandReviewAPI.DTO
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public Double Price { get; set; }
+        public double Price { get; set; }
         public ICollection<ReviewDTO> Reviews  { get; set; }
-        public Double AverageRating { get; set; }
+        public double AverageRating { get; set; }
 
     }
 
