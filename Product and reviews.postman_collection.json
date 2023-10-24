@@ -1,0 +1,168 @@
+{
+	"info": {
+		"_postman_id": "46ed7662-fa96-4e92-b1a2-beb9b3eb3ef8",
+		"name": "Product and reviews",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29194717"
+	},
+	"item": [
+		{
+			"name": "Get Product",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7248/Product",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"Product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Review",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7248/Review",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"Review"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Product",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7248/api/Product",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"api",
+						"Product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Review",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7248/api/Review",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"api",
+						"Review"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Product",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7248/api/Product",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"api",
+						"Product"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Update Review",
+			"request": {
+				"method": "PATCH",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7248/api/Review",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"api",
+						"Review"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Review",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7248/api/Review",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"api",
+						"Review"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Delete Product",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:7248/api/Product",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "7248",
+					"path": [
+						"api",
+						"Product"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
